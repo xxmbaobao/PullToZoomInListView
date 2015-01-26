@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
-
+//fengyao
 public class MainActivity extends Activity {
 	PullToZoomListView listView;
 	private String[] adapterData; 
